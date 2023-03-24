@@ -1,16 +1,14 @@
-### Hi there 👋
+## Mia Lilian Morningstar
 
-<!--
-**lilianalillyy/lilianalillyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i float though the time and space to discover my true meaning.
 
-Here are some ideas to get you started:
+- she/her/they/them
+- advocate of GNC rights, LGBTQIA+ freedom of speech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what do i do
+
+- js, ts: react, vue, node, fastify
+- php: nette, laravel
+- jvm: java, kotlin; spring
+- (my/postgre)sql, cassandra, mongo
+- git, docker, bash
