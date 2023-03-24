@@ -8,7 +8,6 @@ i float though the time and space to discover my true meaning.
 ## what do i do
 
 - js, ts: react, vue, node, fastify
-- php: nette, laravel
-- jvm: java, kotlin; spring
-- (my/postgre)sql, cassandra, mongo
-- git, docker, bash
+- php: vanilla (psr), slim, symfony, nette, laravel
+- (my/postgre/ms)sql, cassandra, elasticsearch, mongo
+- git, docker, rabbitmq, bash/zsh
